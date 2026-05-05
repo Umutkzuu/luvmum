@@ -8,7 +8,7 @@ class FinanceView extends StatefulWidget {
 }
 
 class _FinanceViewState extends State<FinanceView> {
-  final double tabanMaas = 35000.0;
+  final double tabanMaas = 33000.0;
   final double devamPrimi = 2000.0;
 
   bool _devamPrimiHakEtti = true;
