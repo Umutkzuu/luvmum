@@ -63,7 +63,7 @@ class _FinanceViewState extends State<FinanceView> {
                         style: TextStyle(fontSize: 18, color: Colors.black54),
                       ),
                       Text(
-                        "₺35.000",
+                        "₺33.000",
                         style: TextStyle(
                           fontSize: 20,
                           fontWeight: FontWeight.bold,
